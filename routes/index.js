@@ -45,8 +45,8 @@ router.get('/:questionid', function(req, res){
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
     	 <div class="container-fluid content-row">
       <div class="row">
-                    <div class="col-sm-6 col-lg-6 text-center">
-                      <section class="card h-100 mb-5 bg-light">
+                    <div class="col-sm-12 col-lg-12 text-center h-100">
+                      <section class="card mb-5 bg-light">
                           <div class="card-header">
                             <h2 class="card-title">${questio.question}</h2>
                           </div>
