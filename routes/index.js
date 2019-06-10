@@ -14,15 +14,52 @@ router.get('/', function(req, res){
 	});
 });
 router.get('/:questionid', function(req, res){
-  	var dataFile = req.app.get('appQuestion');
-	var question = dataFile.questions[req.params.questionid];
+  	var dataFile1 = req.app.get('appQuestion');
+	var questio = dataFile1.questions[req.params.questionid];
+	var q1, q2, q3, q4;
+	if (questio.option1 === questio.answer){
+		q1 = '<button class="btn btn-danger btn-block btn-wrap-text">'+ questio.option1 +'</btn>';
+	}
+	else {
+		q1 = '<button class="btn btn-outline-primary btn-block btn-wrap-text">'+ questio.option1 +'</btn>';
+	}
+	if (questio.option2 === questio.answer){
+		q2 = '<button class="btn btn-danger btn-block btn-wrap-text">'+ questio.option2 +'</btn>';
+	}
+	else {
+		q2 = '<button class="btn btn-outline-primary btn-block btn-wrap-text">'+ questio.option2 +'</btn>';
+	}
+	if (questio.option3 === questio.answer){
+		q3 = '<button class="btn btn-danger btn-block btn-wrap-text">'+ questio.option3 +'</btn>';
+	}
+	else {
+		q3= '<button class="btn btn-outline-primary btn-block btn-wrap-text">'+ questio.option3 +'</btn>';
+	}
+	if (questio.option4 === questio.answer){
+		q4 = '<button class="btn btn-danger btn-block btn-wrap-text">'+ questio.option4 +'</btn>';
+	}
+	else {
+		q4 = '<button class="btn btn-outline-primary btn-block btn-wrap-text">'+ questio.option4 +'</btn>';
+	}
 	res.send(`
-		<!--<link rel="stylesheet" type="text/css" href="/css/style.css">-->
-		<h1>${question.question}</h1>
-		<p>${question.option1}</p>
-		<p>${question.option2}</p>
-		<p>${question.option3}</p>
-		<p>${question.option4}</p>
+		<link rel="stylesheet" href="/css/bootstrap.min.css">
+    	 <div class="container-fluid content-row">
+      <div class="row">
+                    <div class="col-sm-6 col-lg-6 text-center">
+                      <section class="card h-100 mb-5 bg-light">
+                          <div class="card-header">
+                            <h2 class="card-title">${questio.question}</h2>
+                          </div>
+                          <div class="card-body">
+                            <div class="list-group list-group-flush">
+                            ${q1}
+                            ${q2}
+                            ${q3}
+                            ${q4}
+                          </div>
+                      </section><!-- card -->
+                    </div>
+      </div>
 		`);
 });
 

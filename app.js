@@ -15,7 +15,7 @@ app.locals.siteTitle = 'Quiz';
 
 app.use(express.static('./public'));
 app.use(require('./routes/index'));
-
+app.use(require('./routes/answers'));
 
 
 var server = app.listen(app.get('port'), function() {

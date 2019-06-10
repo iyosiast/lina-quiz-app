@@ -6,7 +6,7 @@
          "option2":"A life withdrawal plan.",
          "option3":"A fixed period withdrawal plan.",
          "option4":"A fixed dollar withdrawal plan.",
-         "answer" : "A fixed dollar withdrawal plan"
+         "answer" : "A fixed dollar withdrawal plan."
       },
       {  
          "question":"Which of the following National Instruments (NI) sets out the requirements applicable to both the form and content of mutual fund prospectuses?",
@@ -358,7 +358,7 @@
          "option2":"They are subject to interest rate risk.",
          "option3":"They are redeemable at any time before maturity.",
          "option4":"They may be sold at a discount from par.",
-         "answer" : "They are redeemable at any time before maturity"
+         "answer" : "They are redeemable at any time before maturity."
       },
       {  
          "question":"What is the secondary market?",

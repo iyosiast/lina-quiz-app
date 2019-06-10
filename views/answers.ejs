@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <title><%= siteTitle %> - <%= pageTitle %></title>
+  <style>
+
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+}
+
+.btn-wrap-text {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 27px;
+  font-weight: 300;
+  color: #000;
+}
+</style>
+</head>
+
+<body id="<%= pageID %>">
+  <div class="container-fluid content-row">
+      <div class="row">
+                    <% answers.forEach(function(item) { %>
+                    <div class="col-sm-6 col-lg-6 text-center">
+                      <section class="card h-100 mb-5 bg-light" id="drwinthrop">
+                          <div class="card-header">
+                            <h2 class="card-title"><%= item.question.replace("\n", "\n") %></h2>
+                          </div>
+                          <div class="card-body">
+                            <div class="list-group list-group-flush">
+                              <%if (item.option1 === item.answer) { %>
+                                  <button class="btn btn-danger btn-block btn-wrap-text"><%= item.option1 %></btn> 
+                              <% } else{ %>
+                                      <button class="btn btn-outline-primary btn-block btn-wrap-text"><%= item.option1 %></btn> 
+                              <% } %>
+                              <%if (item.option2 === item.answer) { %>
+                                  <button class="btn btn-danger btn-block btn-wrap-text"><%= item.option2 %></btn> 
+                              <% } else{ %>
+                                      <button class="btn btn-outline-primary btn-block btn-wrap-text"><%= item.option2 %></btn> 
+                              <% } %>
+                              <%if (item.option3 === item.answer) { %>
+                                  <button class="btn btn-danger btn-block btn-wrap-text"><%= item.option3 %></btn> 
+                              <% } else{ %>
+                                      <button class="btn btn-outline-primary btn-block btn-wrap-text"><%= item.option3 %></btn> 
+                              <% } %>
+                              <%if (item.option4 === item.answer) { %>
+                                  <button class="btn btn-danger btn-block btn-wrap-text"><%= item.option4 %></btn> 
+                              <% } else{ %>
+                                      <button class="btn btn-outline-primary btn-block btn-wrap-text"><%= item.option4 %></btn> 
+                              <% } %>
+
+                           
+
+                          </div>
+                      </section><!-- card -->
+                    </div>
+                    <% }); %>   
+
+      </div>
+    </div><!-- container -->
+    <% include partials/template/jsdefaults.ejs %>
+  </body>
+</html>

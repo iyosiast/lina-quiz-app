@@ -33,6 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 <body id="<%= pageID %>">
   <div class="container-fluid content-row">
       <div class="row">
+                    <% var count = 0; %>
                     <% questions.forEach(function(item) { %>
                     <div class="col-sm-6 col-lg-6 text-center">
                       <section class="card h-100 mb-5 bg-light" id="drwinthrop">
@@ -46,9 +47,12 @@ h1, h2, h3, h4, h5, h6 {
                             <button class="btn btn-outline-primary btn-block btn-wrap-text"><%= item.option3 %></btn>
                             <button class="btn btn-outline-primary btn-block btn-wrap-text"><%= item.option4 %></btn>
                           </div>
+                          <div class="card-footer text-muted">
+                              <a href="/<%= count %>" class="btn btn-primary">Check Answer</a>
+                            </div>
                       </section><!-- card -->
                     </div>
-                    <% }); %>   
+                    <% count++ }); %>  
 
       </div>
     </div><!-- container -->
