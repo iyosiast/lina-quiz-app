@@ -43,7 +43,7 @@ router.get('/:questionid', function(req, res){
 	}
 	res.send(`
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
-    	 <div class="container-fluid content-row">
+    	 <div class="container-fluid content-row h-100">
       <div class="row">
                     <div class="col-sm-12 col-lg-12 text-center h-100">
                       <section class="card mb-5 bg-light">
