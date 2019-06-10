@@ -1,0 +1,724 @@
+{  
+   "questions":[  
+      {  
+         "question":"A client has accumulated $500,000 in her mutual fund portfolio. She would like a fixed amount of $3,500 to be withdrawn from her fund on a monthly basis. What type of systematic withdrawal plan is most suitable for this investor?",
+         "option1":"A fixed ratio withdrawal plan.",
+         "option2":"A life withdrawal plan.",
+         "option3":"A fixed period withdrawal plan.",
+         "option4":"A fixed dollar withdrawal plan.",
+         "answer" : "A fixed dollar withdrawal plan"
+      },
+      {  
+         "question":"Which of the following National Instruments (NI) sets out the requirements applicable to both the form and content of mutual fund prospectuses?",
+         "option1":"NI 81-101.",
+         "option2":"NI 81-102.",
+         "option3":"NI 81-105.",
+         "option4":"NI 31-103.",
+         "answer" : "NI 81-101."
+      },
+      {  
+         "question":"Which mutual fund activity cannot be carried out by non-registered staff?",
+         "option1":"Comparing the advantages of two mutual funds.",
+         "option2":"Referring customers to a sales representative.",
+         "option3":"Advising customers that the financial institution has a mutual fund dealer that sells mutual funds.",
+         "option4":"Receiving requests to process redemptions.",
+         "answer" : "Comparing the advantages of two mutual funds."
+      },
+      {  
+         "question":"What should an investor do when comparing the performance of two equity mutual funds?",
+         "option1":"Compare the funds based on their betas - the fund with the higher beta is usually better.",
+         "option2":"Compare the funds based solely on how they did with respect to the returns on the market as a whole.",
+         "option3":"Compare the funds in relation to their returns and their stated investment objectives.",
+         "option4":"Avoid the fund with the higher load fees.",
+         "answer" : "Compare the funds in relation to their returns and their stated investment objectives."
+      },
+      {  
+         "question":"Select the most accurate statement about a mutual fund that holds defensive common shares.",
+         "option1":"The fund invests mainly in firms that are active in the defense industry.",
+         "option2":"The fund will fluctuate mainly in response to seasonal changes in business activity.",
+         "option3":"The fund will be greatly influenced by changes in the general level of business activity.",
+         "option4":"The fund will not be greatly influenced by changes in the general level of business activity.",
+         "answer" : "The fund will not be greatly influenced by changes in the general level of business activity."
+      },
+      {  
+         "question":"When can redemptions of a mutual fund be suspended?",
+         "option1":"If the fund runs out of cash and has to sell assets to fund redemptions.",
+         "option2":"If the exchange on which 50 or more of the fund’s securities are traded is closed.",
+         "option3":"If the dealer who sold the fund goes bankrupt.",
+         "option4":"If the manager of the fund goes bankrupt.",
+         "answer" : "If the exchange on which 50 or more of the fund’s securities are traded is closed."
+      },
+      {  
+         "question":"After learning a client's risk tolerance and investment objectives you conclude that your mutual fund dealer does not have a mutual fund to suit this client’s needs. As a result what should you do?",
+         "option1":"Inform the client that you do not have a fund that would suit his needs.",
+         "option2":"Recommend the fund closest to his needs.",
+         "option3":"Attempt to convince the client that one of the dealer’s products is suitable.",
+         "option4":"Explain to the client that his investment objectives are probably unrealistic.",
+         "answer" : "Inform the client that you do not have a fund that would suit his needs."
+      },
+      {  
+         "question":"Exchange-traded funds (ETFs) are considered tax efficient investments for which of the following reasons?",
+         "option1":"Use of leverage.",
+         "option2":"Ability to short sell.",
+         "option3":"Lower operational costs.",
+         "option4":"Lower overall trading turnover.",
+         "answer" : "Lower overall trading turnover."
+      },
+      {  
+         "question":"What is forward pricing?",
+         "option1":"It involves using the most recent NAVPU that is available.",
+         "option2":"It involves predicting the future price of a unit and using this to calculate the price today.",
+         "option3":"It involves using the NAVPU at the close of the business day on which the order is given.",
+         "option4":"It can only be used when an investor is selling units, not when buying.",
+         "answer" : "It involves using the NAVPU at the close of the business day on which the order is given."
+      },
+      {  
+         "question":"A client expressed the following concern: \"Last year, I paid around 35% of the returns on my bond fund in taxes.\" As a mutual fund sales representative what should you do first?",
+         "option1":"Recommend equity funds because capital gains are taxed at a lower rate.",
+         "option2":"Devise a diversified portfolio of mutual funds that minimizes the investor's tax liability.",
+         "option3":"Explain the tax treatment of the various types of investment income generated by your dealer's mutual funds.",
+         "option4":"Explain to the client that you cannot help him because you are not permitted to discuss taxes.",
+         "answer" : "Explain the tax treatment of the various types of investment income generated by your dealer's mutual funds."
+      },
+      {  
+         "question":"Which of the following is an acceptable sales practice?",
+         "option1":"Phoning a client at home without being asked by the client to do so.",
+         "option2":"Stating the future value of a money market fund's units.",
+         "option3":"Pointing out to a client information from the simplified prospectus you believe is inaccurate.",
+         "option4":"Stating that an RRSP is not an investment.",
+         "answer" : "Phoning a client at home without being asked by the client to do so."
+      },
+      {  
+         "question":"The following securities can likely be found in the portfolio of a money market mutual fund.",
+         "option1":"Commercial paper, bankers' acceptances, and T-Bills.",
+         "option2":"Commercial paper, CSBs, and T-Bills.",
+         "option3":"CSBs, bankers’ acceptances, and T-Bills.",
+         "option4":"Warrants, bankers' acceptances, and T-Bills.",
+         "answer" : "Commercial paper, bankers' acceptances, and T-Bills."
+      },
+      {  
+         "question":"What is the management fee of a mutual fund?",
+         "option1":"A fee paid by mutual funds to compensate distributors for providing ongoing services to the mutual fund's clients.",
+         "option2":"Fees deducted from the fund itself to pay for professional management and administrative services.",
+         "option3":"Fees deducted from the fund itself to pay for administrative services and brokerage commissions.",
+         "option4":"Fees deducted from the fund itself to pay for professional management and brokerage commissions.",
+         "answer" : "Fees deducted from the fund itself to pay for professional management and administrative services."
+      },
+      {  
+         "question":"The stated objectives of a mutual fund are \"to invest solely in the shares of firms that are involved in the development of high technology products with particular emphasis on the field of medicine.\" What type of mutual fund is this an example of?",
+         "option1":"Bond fund.",
+         "option2":"Specialty fund.",
+         "option3":"International equity fund.",
+         "option4":"Fund that would be highly profitable.",
+         "answer" : "Specialty fund."
+      },
+      {  
+         "question":"What must the mutual fund sales representative never do? ",
+         "option1":"Sell funds outside of their province of registration.",
+         "option2":"Imply that a securities commission has passed judgement on the merits of a mutual fund.",
+         "option3":"Switch clients unnecessarily from one fund to another.",
+         "option4":"All of the above.",
+         "answer" : "All of the above."
+      },
+      {  
+         "question":"Why might a zero-coupon bond be considered a good RRSP investment?",
+         "option1":"It pays regular monthly interest.",
+         "option2":"Its yield to maturity is known in advance.",
+         "option3":"It can be cashed in at any time for its par value.",
+         "option4":"It is not very sensitive to changes in interest rates.",
+         "answer" : "Its yield to maturity is known in advance."
+      },
+      {  
+         "question":"What are futures contracts?",
+         "option1":"They can be viewed as insurance policies because they cost money to undertake but can help avoid large losses.",
+         "option2":"They are risky derivative securities and are nothing like an insurance policy.",
+         "option3":"They are only useful if the value of the securities underlying the contract decrease in value.",
+         "option4":"Both b and c are correct.",
+         "answer" : "They can be viewed as insurance policies because they cost money to undertake but can help avoid large losses."
+      },
+      {  
+         "question":"Firm A and Firm B are identical in every respect except that Firm A has shown a return on common equity (ROE) of 9% while the ROI of Firm B is 11%. What can you say about firm B?",
+         "option1":"It likely has better liquidity than Firm A.",
+         "option2":"It is probably bigger (in terms of sales) than Firm A.",
+         "option3":"It likely has a lower net income than Firm A.",
+         "option4":"It appears to be more profitable than Firm A.",
+         "answer" : "It appears to be more profitable than Firm A."
+      },
+      {  
+         "question":"Select the most accurate statement about a hedged portfolio.",
+         "option1":"It is widely diversified and therefore quite safe.",
+         "option2":"It holds only low-risk securities that are not greatly influenced by market fluctuations.",
+         "option3":"It actively switches investments from debt to equity when market conditions are beneficial.",
+         "option4":"It has structured its investments such that its value is effectively locked in.",
+         "answer" : "It has structured its investments such that its value is effectively locked in."
+      },
+      {  
+         "question":"When is a security selling at a discount?",
+         "option1":"If its par value exceeds its market value.",
+         "option2":"If its par value has decreased.",
+         "option3":"If its market value exceeds its par value.",
+         "option4":"If its market value has decreased.",
+         "answer" : "If its par value exceeds its market value."
+      },
+      {  
+         "question":"Complete the sentence: Warrants __________.",
+         "option1":"are like put options because they let an investor sell shares at a fixed price.",
+         "option2":"are usually issued to existing shareholders in relation to the number of shares they currently own.",
+         "option3":"are like call options because they let an investor buy shares at a fixed price.",
+         "option4":"Both b and c are correct.",
+         "answer" : "are like call options because they let an investor buy shares at a fixed price."
+      },
+      {  
+         "question":"Which statement about the differences between load funds and no-load funds is correct?",
+         "option1":"There is no indication that either consistently outperforms the other.",
+         "option2":"After considering load fees, no-load funds generally outperform funds that charge load fees.",
+         "option3":"Their performance is usually the same because no-load funds generally charge higher management fees.",
+         "option4":"You get what you pay for—load funds generally outperform no-load funds.",
+         "answer" : "There is no indication that either consistently outperforms the other."
+      },
+      {  
+         "question":"What does 'knowing your products' mean for a mutual fund sales representative?",
+         "option1":"Understanding the characteristics of the mutual funds being recommended.",
+         "option2":"Explaining the pros and cons of stocks held in an equity portfolio.",
+         "option3":"Being able to explain third party funds.",
+         "option4":"Referring clients to persons qualified to give advice in the appropriate specialist area.",
+         "answer" : "Understanding the characteristics of the mutual funds being recommended."
+      },
+      {  
+         "question":"What amount would an investor receive when redeeming a unit of a no-load mutual fund with a NAVPU of $6.75 and a management fee of 2%?",
+         "option1":"$6.62",
+         "option2":"$6.89",
+         "option3":"$6.75",
+         "option4":"$6.50",
+         "answer" : "$6.75"
+      },
+      {  
+         "question":"Nigel is a mutual fund sales representative with Mountain Financial. He receives an annual fee of 0.50% of invested assets to service existing clients holding the MBC family of funds. What type of fee is Nigel receiving?",
+         "option1":"Management fee.",
+         "option2":"Deferred sales fee.",
+         "option3":"Sales fee.",
+         "option4":"Trailer fee.",
+         "answer" : "Trailer fee."
+      },
+      {  
+         "question":"A change in short-term interest rates by the central bank is an example of what type of investment risk?",
+         "option1":"Unique risk.",
+         "option2":"Market risk.",
+         "option3":"Specific risk.",
+         "option4":"Hedging risk.",
+         "answer" : "Market risk."
+      },
+      {  
+         "question":"Identify the characteristics of the trough phase of the business cycle.",
+         "option1":"High interest rates and low business activity.",
+         "option2":"Low unemployment and low inflation.",
+         "option3":"Low interest rates and low inflation.",
+         "option4":"High unemployment and high inflation.",
+         "answer" : "Low interest rates and low inflation."
+      },
+      {  
+         "question":"Select the most accurate statement about closed-end investment funds.",
+         "option1":"They never charge management fees since they are unmanaged.",
+         "option2":"They are listed on stock exchanges and are not in a state of continuous primary distribution.",
+         "option3":"They trade at a substantial premium to the net asset value because of their diversification.",
+         "option4":"They no longer exist and have been replaced by open-end funds.",
+         "answer" : "They are listed on stock exchanges and are not in a state of continuous primary distribution."
+      },
+      {  
+         "question":"Steve has made his maximum allowable RRSP contribution and wishes to contribute to a spousal plan as well. The spouse has contributed $6,000 to her own plan. How much can Steve contribute to the spousal plan?",
+         "option1":"Any unused contribution room up to $8,500.",
+         "option2":"Cannot be determined - it depends on his wife's salary.",
+         "option3":"$0",
+         "option4":"As much as he can afford since spousal RRSPs don’t have the same contribution limits.",
+         "answer" : "$0"
+      },
+      {  
+         "question":"What are the actions of a mutual fund sales representative influenced by?",
+         "option1":"Code of professional and ethical responsibility.",
+         "option2":"Securities regulations and national policies.",
+         "option3":"Codes of conduct implemented by the employer.",
+         "option4":"All of the above.",
+         "answer" : "All of the above."
+      },
+      {  
+         "question":"For the past three years, a particular mutual fund has posted returns that are significantly higher than the market. Before investing in such a fund, what should an investor carefully examine?\nI. The volatility of the fund’s historical returns. \nII. The stated investment objectives of the fund. \nIII. The overall market climate during the period in question. \nIV. The fund's asset allocation.",
+         "option1":"I and III only.",
+         "option2":"II and IV only.",
+         "option3":"I, III and IV only.",
+         "option4":"I, II, III and IV.",
+         "answer" : "I, II, III and IV."
+      },
+      {  
+         "question":"What is strategic asset allocation?",
+         "option1":"The same thing as market timing.",
+         "option2":"A portfolio consisting of 50% fixed income mutual funds and 50% equity mutual funds.",
+         "option3":"The long-term mix of securities designed to maximize portfolio returns.",
+         "option4":"The optimal fit between the investor’s “know your client data” and the dealer’s mutual funds, given current financial market conditions.",
+         "answer" : "The long-term mix of securities designed to maximize portfolio returns."
+      },
+      {  
+         "question":"Which statement about market risk is correct?",
+         "option1":"It cannot be eliminated even in a broadly diversified portfolio.",
+         "option2":"It can be eliminated from an equity portfolio that is well diversified.",
+         "option3":"It is measured by the variance of returns of a fund.",
+         "option4":"It is a risk that is inherent to a specific security.",
+         "answer" : "It cannot be eliminated even in a broadly diversified portfolio."
+      },
+      {  
+         "question":"An investor purchases a common share for $16. The share pays an annual dividend of $0.50. What is the simple annual return on this investment if the common share is sold after one year for $18?",
+         "option1":"15.6%",
+         "option2":"9.4%",
+         "option3":"25.0%",
+         "option4":"16.7%",
+         "answer" : "15.6%"
+      },
+      {  
+         "question":"If a customer has $100 to invest in a fund that charges a 5% front-end load commission, what is the approximate amount of money actually invested in the fund?",
+         "option1":"$105.26",
+         "option2":"$105.00",
+         "option3":"$95.24",
+         "option4":"$95.00",
+         "answer" : "$95.00"
+      },
+      {  
+         "question":"Which securities trade OTC?",
+         "option1":"Most bonds and some common shares.",
+         "option2":"Global mutual funds, some common shares, and commercial paper.",
+         "option3":"Most mutual funds, bonds, and commercial paper.",
+         "option4":"Money market mutual funds, bonds, and foreign currencies.",
+         "answer" : "Most bonds and some common shares."
+      },
+      {  
+         "question":"What should you do if a client is unwilling to provide enough personal and financial information for you to determine the suitability of his investment choices you should?",
+         "option1":"Accept the order and send the client’s file to your institution’s financial planner for review.",
+         "option2":"Refuse the order and explain that acceptance would be a violation of securities law on your part.",
+         "option3":"Agree to accept the order on the condition that the client agrees not to sue you.",
+         "option4":"Refuse the order and report the client for potential violation of securities law.",
+         "answer" : "Refuse the order and explain that acceptance would be a violation of securities law on your part."
+      },
+      {  
+         "question":"What advantage do mutual funds offer investors?",
+         "option1":"Excess returns.",
+         "option2":"Professional management.",
+         "option3":"Perfect liquidity at all times.",
+         "option4":"All of the above.",
+         "answer" : "Professional management."
+      },
+      {  
+         "question":"If you wanted to isolate the actual return on a fund into its various components, which measure would you use?\nI. Policy Return.\nII. Selection Effect.\nIII. Allocation Effect.\nIV. Attribution Effect.",
+         "option1":"I and III only.",
+         "option2":"II and IV only.",
+         "option3":"I, II and III only.",
+         "option4":"II, III and IV only.",
+         "answer" : "I, II and III only."
+      },
+      {  
+         "question":"Which type of fee is charged out as an expense against the entire fund’s earnings and disclosed in the fund's prospectus?",
+         "option1":"Sales commissions.",
+         "option2":"Management fees.",
+         "option3":"Trailer fees.",
+         "option4":"Front-end load fees.",
+         "answer" : "Management fees."
+      },
+      {  
+         "question":"Ella, 31, and Nic, 28 are currently saving for retirement and for Ella's plan to return to school in 2 years to become a teacher. They own their own home with an outstanding mortgage of $150,000, and have a fully-paid for 4-year old car that they do not want to replace. Although they might decide to have children in a few years, they are uncertain about that final decision. What do you focus on as their investment objectives?",
+         "option1":"Financing Ella's education.",
+         "option2":"Saving for retirement.",
+         "option3":"Paying off the mortgage and saving for retirement.",
+         "option4":"Financing Ella's education and saving for retirement.",
+         "answer" : "Financing Ella's education and saving for retirement."
+      },
+      {  
+         "question":"Select the most accurate statement about the carry-forward rule for unused RRSP contributions.",
+         "option1":"Unused RRSP contributions cannot be carried forward.",
+         "option2":"Unused RRSP contributions may be carried forward indefinitely.",
+         "option3":"Unused RRSP contributions may be carried forward a maximum of 5 years.",
+         "option4":"Unused RRSP contributions may be carried back 3 years but cannot be carried forward.",
+         "answer" : "Unused RRSP contributions may be carried forward indefinitely."
+      },
+      {  
+         "question":"An investor bought a mutual fund for $12.50 per unit and sold it one year later for $12 per unit. During the year he received $0.75 in distributions. Ignoring any fees or charges, what was the total return for the one-year period?",
+         "option1":"-4.17%",
+         "option2":"2.00%",
+         "option3":"10.00%",
+         "option4":"10.42%",
+         "answer" : "2.00%"
+      },
+      {  
+         "question":"What are capital losses within an RRSP?",
+         "option1":"They are lost to the investor and there are no tax consequences.",
+         "option2":"They increase the allowable contribution, up to the value of the loss, in the year in which the losses occur.",
+         "option3":"They can be claimed directly against total income.",
+         "option4":"They can be claimed against non-RRSP capital gains to reduce taxable income.",
+         "answer" : "They are lost to the investor and there are no tax consequences."
+      },
+      {  
+         "question":"Which of the following is true of Canada Savings Bonds (CSBs)?",
+         "option1":"They trade on the secondary market.",
+         "option2":"They are subject to interest rate risk.",
+         "option3":"They are redeemable at any time before maturity.",
+         "option4":"They may be sold at a discount from par.",
+         "answer" : "They are redeemable at any time before maturity"
+      },
+      {  
+         "question":"What is the secondary market?",
+         "option1":"An emergency market should the primary market be compromised and unable to operate.",
+         "option2":"A market where investors can purchase securities directly from the issuer.",
+         "option3":"The market for securities that have previously been sold by the issuer.",
+         "option4":"A market specifically designated for speculative securities.",
+         "answer" : "The market for securities that have previously been sold by the issuer."
+      },
+      {  
+         "question":"Which of the following is not found in the liabilities section of a firm's balance sheet?",
+         "option1":"Accounts payable.",
+         "option2":"Outstanding bond issues.",
+         "option3":"Inventories.",
+         "option4":"Income taxes payable.",
+         "answer" : "Inventories."
+      },
+      {  
+         "question":"Inflation was 5% over the last year. What happened to this client's purchasing power if the value of her portfolio grew by 3% over the same period?",
+         "option1":"It increased by 2%.",
+         "option2":"It did not change.",
+         "option3":"It fell by 2%.",
+         "option4":"It increased by 3%.",
+         "answer" : "It fell by 2%."
+      },
+      {  
+         "question":"If an equity fund’s beta is 0.5 and the market decreases by 2 what should happen to the value of the fund?",
+         "option1":"Increase by 2%.",
+         "option2":"Decrease by 2%.",
+         "option3":"Increase by 1%.",
+         "option4":"Decrease by 1%.",
+         "answer" : "Decrease by 1%."
+      },
+      {  
+         "question":"The manager of the Equinox Equity fund decided to overweight the fund’s position in South American markets. Over the most recent evaluation period, the fund reports a negative allocation effect. What does this outcome indicate?",
+         "option1":"The overweighted position paid off.",
+         "option2":"The overweighted position did not pay off.",
+         "option3":"The actual return will be higher as a result of the overweight position.",
+         "option4":"The change in strategic allocation has no impact on the allocation effect.",
+         "answer" : "The overweighted position did not pay off."
+      },
+      {  
+         "question":"What is the yield to maturity of a bond?",
+         "option1":"The return expected over the life of a bond assuming any coupon payments received are reinvested at that same yield to maturity.",
+         "option2":"The sum of all remaining coupon payments of a bond divided by the number of years until maturity.",
+         "option3":"The sum of all coupon payments remaining to be paid out plus the par value of the bond divided by the dollar value of the initial investment.",
+         "option4":"The return calculated by dividing all coupon payments for one year by the market price of the bond.",
+         "answer" : "The return expected over the life of a bond assuming any coupon payments received are reinvested at that same yield to maturity."
+      },
+      {  
+         "question":"Which requirement under current anti-money laundering legislation is false?",
+         "option1":"Report suspicious activity on certain prescribed transactions.",
+         "option2":"Report any deposit transactions of $5,000 CDN or more made in cash.",
+         "option3":"Verify client identification at account opening.",
+         "option4":"Implement a compliance regime that complies with record-keeping requirements.",
+         "answer" : "Report any deposit transactions of $5,000 CDN or more made in cash."
+      },
+      {  
+         "question":"What is an investor in the fifth life cycle stage typically most concerned with?",
+         "option1":"Growth and tax minimization.",
+         "option2":"Safety and income.",
+         "option3":"Liquidity and capital appreciation.",
+         "option4":"Tax minimization and capital appreciation.",
+         "answer" : "Safety and income."
+      },
+      {  
+         "question":"The trading of commercial paper and bankers' acceptances takes place on which of the following markets?",
+         "option1":"Long-term capital market.",
+         "option2":"Money market.",
+         "option3":"Derivatives market.",
+         "option4":"Currency market.",
+         "answer" : "Money market."
+      },
+      {  
+         "question":"Which statement is true about a registered retirement income fund (RRIF)?",
+         "option1":"An investor must make minimum annual withdrawals and the RRIF must be terminated by the time the investor reaches age 90.",
+         "option2":"Minimum annual withdrawals no longer exist for RRIFs.",
+         "option3":"Minimum annual withdrawals must begin in the same year as the RRIF is set up.",
+         "option4":"An investor must make minimum annual withdrawals and there is no maximum age by which the RRIF must be terminated.",
+         "answer" : "An investor must make minimum annual withdrawals and there is no maximum age by which the RRIF must be terminated."
+      },
+      {  
+         "question":"Which combination of investments is least likely to generate a capital gain? ",
+         "option1":"Equity funds, bond funds, and mortgage funds.",
+         "option2":"GICs, CSBs, and money market funds.",
+         "option3":"Money market funds, options, and REITs.",
+         "option4":"T-Bills, zero-coupon bonds, and REITs.",
+         "answer" : "GICs, CSBs, and money market funds."
+      },
+      {  
+         "question":"Simone purchased an investment from her chartered bank that has a maturity date of five years and common shares as the underlying asset. The investment has a performance participation cap. What type of investment is this an example of?",
+         "option1":"Closed-end fund.",
+         "option2":"Principal protected note.",
+         "option3":"Commodity pool.",
+         "option4":"Relative value fund.",
+         "answer" : "Principal protected note."
+      },
+      {  
+         "question":"The fund manager of HDR Equity wants to ensure that the performance of the fund remains competitive by 'gaming' the benchmark. What strategy is the fund manager most likely making use of? ",
+         "option1":"Closet indexing.",
+         "option2":"Benchmark attribution.",
+         "option3":"Attribution analysis.",
+         "option4":"Allocation return enhancement.",
+         "answer" : "Closet indexing."
+      },
+      {  
+         "question":"Select the correct answer about an equity fund manager who believes that the stock markets is efficient.",
+         "option1":"She will probably advocate an active portfolio strategy.",
+         "option2":"She believes that her fund can earn excess returns to the extent that she is able to pick undervalued stocks.",
+         "option3":"She will probably advocate a passive portfolio strategy.",
+         "option4":"She believes that stock prices do not reflect all the information available to investors.",
+         "answer" : "She will probably advocate a passive portfolio strategy."
+      },
+      {  
+         "question":"When will a ratio withdrawal plan result in erosion of the investor's capital?",
+         "option1":"The investor lives too long.",
+         "option2":"The withdrawal ratio exceeds the annual growth of remaining capital.",
+         "option3":"The annual growth in capital exceeds the withdrawal ratio.",
+         "option4":"The fund holds low-yield money market securities.",
+         "answer" : "The withdrawal ratio exceeds the annual growth of remaining capital."
+      },
+      {  
+         "question":"What is the main difference between a wrap account and a balanced mutual fund.",
+         "option1":"Wrap accounts are distributed through investment brokers, balanced funds are not.",
+         "option2":"Wrap accounts will likely not hold debt securities.",
+         "option3":"Wrap accounts are tailored to the needs of an individual investor, balanced funds are not.",
+         "option4":"There is no difference.",
+         "answer" : "Wrap accounts are tailored to the needs of an individual investor, balanced funds are not."
+      },
+      {  
+         "question":"Select the emotional bias.",
+         "option1":"Availability.",
+         "option2":"Overconfidence.",
+         "option3":"Endowment.",
+         "option4":"Representativeness.",
+         "answer" : "Endowment."
+      },
+      {  
+         "question":"What is an advantage of investing in a registered education savings plan (RESP)?",
+         "option1":"Contributions are tax deductible.",
+         "option2":"If the beneficiary does not proceed to post secondary education, all plan proceeds are simply returned to the contributor.",
+         "option3":"Withdrawals are taxed in the hands of the beneficiary.",
+         "option4":"All of the above.",
+         "answer" : "Withdrawals are taxed in the hands of the beneficiary."
+      },
+      {  
+         "question":"What is an acquisition fee?",
+         "option1":"A fee paid by a fund for the purchase of its portfolio of securities.",
+         "option2":"A fee charged to investors by some mutual funds to discourage them from redeeming their units soon after purchasing them.",
+         "option3":"A sales charge based on the dollar value invested, which is paid by investors at the time they purchase fund units on a front-end load basis.",
+         "option4":"A sales charge based on the dollar value invested, which is paid by investors at the time they purchase fund units on either a front-end load or back-end load basis.",
+         "answer" : "A sales charge based on the dollar value invested, which is paid by investors at the time they purchase fund units on a front-end load basis."
+      },
+      {  
+         "question":"Which one of the following is the best example of \"sales force distribution\" for mutual fund securities?",
+         "option1":"Mutual fund companies use \"dual employed\" salespeople to distribute mutual funds.",
+         "option2":"Distributors who offer other companies' mutual funds, which the distributors don’t manage, to their clients.",
+         "option3":"A mutual fund investment company recruits, trains and employs a centralized telephone ordertaking department.",
+         "option4":"A mutual fund company has its own sales force that solicits orders directly from clients.",
+         "answer" : "A mutual fund company has its own sales force that solicits orders directly from clients."
+      },
+      {  
+         "question":"Why are preferred shares considered riskier than common shares?",
+         "option1":"Preferred shareholders may have no say in the affairs of the issuer.",
+         "option2":"In addition to market risk, preferred shares are also subject to fluctuations in interest rates.",
+         "option3":"The preferred share issuer may force conversion if market conditions warrant it.",
+         "option4":"The statement is false; common shares are riskier than preferred shares.",
+         "answer" : "The statement is false; common shares are riskier than preferred shares."
+      },
+      {  
+         "question":"When can a mutual fund sales representative disclose confidential client information without the client's consent?",
+         "option1":"Never.",
+         "option2":"When requested by the advisor's senior manager.",
+         "option3":"When the information is required to administer a provincial law.",
+         "option4":"When a financial institution that the client has an account with requests the information.",
+         "answer" : "When the information is required to administer a provincial law."
+      },
+      {  
+         "question":"What action will investors who expect a decrease in the price of ABC stock likely take?\nI. Buy calls on ABC stock.\nII. Buy puts on ABC stock.\nIII. Short ABC stock.\nIV. Write (sell) calls on ABC stock.",
+         "option1":"III only.",
+         "option2":"I and II only.",
+         "option3":"II, III and IV only.",
+         "option4":"I, III and IV only.",
+         "answer" : "II, III and IV only."
+      },
+      {  
+         "question":"Which statement about market risk is true?",
+         "option1":"It cannot be eliminated, even in a highly diversified portfolio.",
+         "option2":"It can be eliminated from highly diversified equity mutual fund portfolios.",
+         "option3":"It is measured by the variance in returns of a fund.",
+         "option4":"It is the risk unique to a specific security.",
+         "answer" : "It cannot be eliminated, even in a highly diversified portfolio."
+      },
+      {  
+         "question":"What is a life annuity?",
+         "option1":"An annuity that pays out a fixed dollar value over a specified number of years.",
+         "option2":"An annuity whose fixed payments are guaranteed as long as the investor lives.",
+         "option3":"An annuity whose payments vary with the performance of the underlying investment portfolio and continue as long as the investor lives.",
+         "option4":"An annuity that pays out a fixed percentage of the underlying investment portfolio value, as long as the investor lives.",
+         "answer" : "An annuity whose fixed payments are guaranteed as long as the investor lives."
+      },
+      {  
+         "question":"A mutual fund holds a $1,000 T-bill that cost $960 and matures in 182 days. What is the approximate annualized return on the T-bill?",
+         "option1":"4.0%",
+         "option2":"4.2%",
+         "option3":"9.0%",
+         "option4":"8.3%",
+         "answer" : "8.3%"
+      },
+      {  
+         "question":"A fund's portfolio has a market value of $15,000,000. Wages and trustee fees due are $450,000, other liabilities total $250,000. If there are 1,000,000 units outstanding, what is the NAVPU?",
+         "option1":"$15.70",
+         "option2":"$14.55",
+         "option3":"$15.00",
+         "option4":"$14.30",
+         "answer" : "$14.30"
+      },
+      {  
+         "question":"Which statement about the secondary market is correct?",
+         "option1":"It is the same as the OTC market.",
+         "option2":"It is where newly underwritten and issued securities are traded.",
+         "option3":"It is where previously issued and outstanding shares are traded.",
+         "option4":"It is where most mutual funds are bought and sold.",
+         "answer" : "It is where previously issued and outstanding shares are traded."
+      },
+      {  
+         "question":"Which one of the following investments offers the most liquidity?",
+         "option1":"Units of a bond mutual fund.",
+         "option2":"Units of a money market mutual fund.",
+         "option3":"Common shares of a large, well known firm.",
+         "option4":"A zero-coupon bond.",
+         "answer" : "Units of a money market mutual fund."
+      },
+      {  
+         "question":"If the manager of a bond fund feels that interest rates will rise, what action will he likely take?",
+         "option1":"Revise the portfolio and reduce portfolio duration.",
+         "option2":"Revise the portfolio and increase portfolio duration.",
+         "option3":"Sell all the bonds in the portfolio and buy them back after the rates have risen.",
+         "option4":"Recommend that the fund holders sell their units before interest rates rise.",
+         "answer" : "Revise the portfolio and reduce portfolio duration."
+      },
+      {  
+         "question":"A preferred share pays an annual dividend of $1.25 and has a par value of $15.00. If the market price is currently $17.25, what is the current yield on the share?",
+         "option1":"8.33%",
+         "option2":"7.25%",
+         "option3":"11.6%",
+         "option4":"15.0%",
+         "answer" : "7.25%"
+      },
+      {  
+         "question":"What is the primary market?",
+         "option1":"The market in which securities are issued to the public directly by the issuer.",
+         "option2":"The overall market encompassing both the over-the-counter (OTC) markets and the organized exchanges.",
+         "option3":"The over-the counter market which has no actual physical location and is just a large computer network of investment dealers.",
+         "option4":"The market where the underlying commodity of futures contracts can be bought and sold at spot prices.",
+         "answer" : "The market in which securities are issued to the public directly by the issuer."
+      },
+      {  
+         "question":"Your new client, a successful 44 year old lawyer with excellent job security, has a net worth of $850,000, an annual income of $120,000 before tax with low monthly expenses, and no dependents. She has been investing successfully in a wide range of investments since her early 20s, and wants to work aggressively towards early retirement at age 53. Which of the following asset allocations would you recommend?",
+         "option1":"10% cash, 25% equities, 65% fixed income.",
+         "option2":"10% cash, 60% equity, 30% fixed income.",
+         "option3":"5% cash, 90% equities, 5% fixed income.",
+         "option4":"5% cash, 80% equities, 15% fixed income.",
+         "answer" : "5% cash, 80% equities, 15% fixed income."
+      },
+      {  
+         "question":"What happens to the value of mortgage mutual funds when mortgage interest rates fall?",
+         "option1":"Their value falls.",
+         "option2":"Their value increases.",
+         "option3":"Their value does not change because they are NHA insured.",
+         "option4":"Their value does not change because mortgage funds are not subject to interest rate risk.",
+         "answer" : "Their value increases."
+      },
+      {  
+         "question":"Select the most accurate statement about dollar cost averaging.",
+         "option1":"It benefits the investor because a fixed number of units is purchased each period regardless of market conditions.",
+         "option2":"It will always result in a lower per unit cost than a one-time lump sum purchase.",
+         "option3":"It involves investing more when market prices are low and less when market prices are high.",
+         "option4":"It results in a higher average per unit cost when market prices are falling.",
+         "answer" : "It results in a higher average per unit cost when market prices are falling."
+      },
+      {  
+         "question":"What is a fixed term annuity?",
+         "option1":"An annuity for a specific term, where payments will fluctuate in keeping with the changes in the value of the underlying investment portfolio.",
+         "option2":"An annuity that pays out a fixed percentage of the underlying investment portfolio value, as long as the investor lives.",
+         "option3":"An annuity where payments continue as long as the investor lives and vary with changes in the value of the underlying investment portfolio.",
+         "option4":"An annuity that pays out a fixed dollar value over a predetermined number of years.",
+         "answer" : "An annuity that pays out a fixed dollar value over a predetermined number of years."
+      },
+      {  
+         "question":"If a client of an affiliated financial institution fails to provide KYC information to a mutual fund salesperson, what should the salesperson do?",
+         "option1":"Obtain the required information from the client's files with the financial institution.",
+         "option2":"Proceed with client's instructions, but caution the client.",
+         "option3":"Remind the client that they will have to provide the information each year.",
+         "option4":"None of the above.",
+         "answer" : "None of the above."
+      },
+      {  
+         "question":"What ethical responsibility do mutual fund sales representatives have?",
+         "option1":"To steer clients away from risky investments like specialty funds.",
+         "option2":"To provide clients with the means to reduce the taxes they pay on the returns they receive from mutual funds.",
+         "option3":"To ignore sales targets and concentrate on meeting the needs of the client.",
+         "option4":"To tell clients that they are officially registered to sell mutual funds.",
+         "answer" : "To ignore sales targets and concentrate on meeting the needs of the client."
+      },
+      {  
+         "question":"Why do some money market funds provide both the effective yield and the current yield to potential and existing investors?",
+         "option1":"Because funds reporting only their current yield will appear to generate higher returns.",
+         "option2":"For purposes of comparison to other short-term investments.",
+         "option3":"Because funds reporting only their effective yield will appear to generate higher returns.",
+         "option4":"Because the current yield assumes returns are compounded, which is unrealistic.",
+         "answer" : "Because funds reporting only their effective yield will appear to generate higher returns."
+      },
+      {  
+         "question":"What is a primary difference between segregated funds and mutual funds?",
+         "option1":"Secondary market trading.",
+         "option2":"Principal guarantees.",
+         "option3":"Diversified portfolio holdings.",
+         "option4":"Professional management of portfolio assets.",
+         "answer" : "Principal guarantees."
+      },
+      {  
+         "question":"What type of mutual fund is insured by the Canadian Deposit Insurance Corporation?",
+         "option1":"A bond fund that invests exclusively in government of Canada bonds.",
+         "option2":"Money market funds because they are sold by branch personnel of deposit taking financial institutions.",
+         "option3":"Any type, as long as the symbol of the CDIC appears on the prospectus.",
+         "option4":"The CDIC does not insure any mutual funds.",
+         "answer" : "The CDIC does not insure any mutual funds."
+      },
+      {  
+         "question":"A client has recently reached the age of 50 and according to your estimates should be entering the fourth life cycle stage. What action would you take?",
+         "option1":"Inform the client that it is time to re-evaluate her investment objectives.",
+         "option2":"Recommend to the client that she restructures her portfolio based on her new investment objectives.",
+         "option3":"Determine if the client's objectives have changed and, if so, suggest suitable investment alternatives.",
+         "option4":"Assist the client in developing a financial plan based on her new investment objectives.",
+         "answer" : "Determine if the client's objectives have changed and, if so, suggest suitable investment alternatives."
+      },
+      {  
+         "question":"Which of the following statements about KYC information is false?",
+         "option1":"It is required from all persons that have trading authority over an account.",
+         "option2":"It must include the client’s investment time frame.",
+         "option3":"It must include the client’s marital status.",
+         "option4":"It is required for non solicited trades.",
+         "answer" : "It must include the client’s marital status."
+      },
+      {  
+         "question":"What is the current yield of a money market fund?",
+         "option1":"The most recent seven-day yield.",
+         "option2":"The current seven-day yield divided by the fund’s market price.",
+         "option3":"The most recent seven-day yield, annualized without compounding.",
+         "option4":"The yield generated over the last seven days, compounded for one year into the future.",
+         "answer" : "The most recent seven-day yield, annualized without compounding."
+      },
+      {  
+         "question":"An investor withdraws $2,000 in income from her RRSP. The highest amount of tax will be paid on what source of income?",
+         "option1":"Interest income.",
+         "option2":"Dividend income.",
+         "option3":"Capital gains.",
+         "option4":"The tax is the same regardless of the source.",
+         "answer" : "The tax is the same regardless of the source."
+      }
+   ]
+}
