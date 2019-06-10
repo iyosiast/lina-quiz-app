@@ -42,11 +42,13 @@ router.get('/:questionid', function(req, res){
 		q4 = '<button class="btn btn-outline-primary btn-block btn-wrap-text">'+ questio.option4 +'</btn>';
 	}
 	res.send(`
+		<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
-    	 <div class="container-fluid content-row h-100">
-      <div class="row">
-                    <div class="col-sm-12 col-lg-12 text-center h-100">
-                      <section class="card mb-5 bg-light">
+    	 <div class="container h-100">
+      <div class="row h-100">
+                    <div class="col-sm-12 col-lg-12 text-center">
+                      <section class="card mb-5 bg-light h-100">
                           <div class="card-header">
                             <h2 class="card-title">${questio.question}</h2>
                           </div>
