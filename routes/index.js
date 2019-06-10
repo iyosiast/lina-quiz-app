@@ -45,10 +45,30 @@ router.get('/:questionid', function(req, res){
 		<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
-    	 <div class="container h-100">
-      <div class="row h-100">
+		<style>
+
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+}
+
+.btn-wrap-text {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 27px;
+  font-weight: 300;
+  color: #000;
+}
+</style>
+
+    	 <div class="container">
+      <div class="row">
                     <div class="col-sm-12 col-lg-12 text-center">
-                      <section class="card mb-5 bg-light h-100">
+                      <section class="card mb-5 bg-light">
                           <div class="card-header">
                             <h2 class="card-title">${questio.question}</h2>
                           </div>
